@@ -1,0 +1,17 @@
+.vscode
+
+# VirtualEnvironemt
+venv/
+
+# pycache
+__pycache__/
+
+# database
+# data.db
+
+
+#.idea
+.idea/
+
+#Logs
+*.log
