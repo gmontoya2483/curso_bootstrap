@@ -27,6 +27,10 @@
     * [Working with cards](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685488?start=0)
     * [Media objects](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685492?start=0)
     
+  * [Section 4 Grid System and Flexbox](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685566?start=0)
+    * [Grid System](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685568?start=0)
+    
+    
 
 ### Referencias
 
