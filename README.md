@@ -32,6 +32,12 @@
     * [Grid Alignment](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685570?start=0)
     * [Flex Classes](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685572?start=0)
 
+  * [Section 5: JavaScript Widgets](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685576?start=0)
+    * [Carousel Slider](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685582?start=0)
+    * [Collapse and accordion](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685584?start=0)
+    * [Tooltips](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685586?start=0)
+    * [Popovers](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685588?start=0)
+    * [Modals](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685590?start=0)
 
 
 ### Referencias

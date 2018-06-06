@@ -81,36 +81,83 @@
   <div class="container">
     <!--########################START HERE#########################-->
 
+    <h2>POPOVER</h2>
     <!-- POPOVER -->
-    <button>
+    <button
+    class="btn btn-outline-danger"
+    data-toggle="popover"
+    data-placement="top"
+    title="Popover Title"
+    data-content="Loren ipsum dolor sit amet, consectetur adipsicing elit."
+    >
       Toggle popover
     </button>
 
-    <button>
+    <button
+    class="btn btn-outline-primary"
+    data-toggle="popover"
+    data-placement="right"
+    title="Popover Title"
+    data-content="Loren ipsum dolor sit amet, consectetur adipsicing elit."
+    >
       Toggle popover
     </button>
 
-    <button>
+    <button
+    class="btn btn-outline-warning"
+    data-toggle="popover"
+    data-placement="left"
+    title="Popover Title"
+    data-content="Loren ipsum dolor sit amet, consectetur adipsicing elit."
+    >
       Toggle popover
     </button>
 
-    <button>
+    <button
+    class="btn btn-outline-info"
+    data-toggle="popover"
+    data-placement="bottom"
+    title="Popover Title"
+    data-content="Loren ipsum dolor sit amet, consectetur adipsicing elit."
+    >
       Toggle popover
     </button>
 
     <br><br>
 
+    <h2>DISMISSIBLE POPOVER</h2>
     <!-- DISMISSIBLE POPOVER -->
-    <button>
+    <button
+    class="btn btn-outline-primary"
+    data-toggle="popover"
+    data-placement="bottom"
+    title="Popover Title"
+    data-content="Loren ipsum dolor sit amet, consectetur adipsicing elit."
+    data-trigger="focus"
+    >
       Toggle popover
     </button>
 
     <hr>
+    <h2>CONTROL WITH JS</h2>
+
+    <button
+    id = "myPopover"
+    class="btn btn-outline-primary"
+    data-toggle="popover"
+    data-placement="top"
+    title="Popover Title"
+    data-content="Loren ipsum dolor sit amet, consectetur adipsicing elit."
+    data-trigger="focus"
+    >
+      Toggle popover
+    </button>
+    <br><br>
 
     <!-- CONTROL WITH JS -->
-    <button>Show Popover</button>
-    <button>Hide Popover</button>
-    <button>Toggle Popover</button>
+    <button class="btn btn-secondary" onclick="showPopover()">Show Popover</button>
+    <button class="btn btn-success" onclick="hidePopover()">Hide Popover</button>
+    <button class="btn btn-info" onclick="togglePopover()">Toggle Popover</button>
   </div>
 
   <div style="margin-top:500px;"></div>
@@ -119,6 +166,40 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
   <script>
+        // Init tooltips
+        $('[data-toggle="popover"]').popover();
+
+
+        function showPopover(){
+          $('#myPopover').popover('show');
+        }
+        
+        function hidePopover(){
+          $('#myPopover').popover('hide');
+        }
+
+        function togglePopover(){
+          $('#myPopover').popover('toggle');
+        }
+
+        //Tooltip Events
+        $('#myPopover').on('show.bs.popover', function(){
+          console.log('Popover Show');
+        });
+
+        $('#myPopover').on('shown.bs.popover', function(){
+          console.log('Popover Shown');
+        });
+
+        $('#myPopover').on('hide.bs.popover', function(){
+          console.log('Popover hide');
+        });
+
+        $('#myPopover').on('hidden.bs.popover', function(){
+          console.log('Popover hidden');
+        });
+
+
     
   </script>
 </body>
