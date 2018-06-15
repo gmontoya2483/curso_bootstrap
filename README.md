@@ -40,9 +40,14 @@
     * [Tooltips](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685586?start=0)
     * [Popovers](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685588?start=0)
     * [Modals](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685590?start=0)
-
+    * [ScrollSpy](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685590?start=0)
 
 ### Referencias
 
 [Bootstrap](https://getbootstrap.com/)  
 [Bootstrap 4 From Scratch with 5 projects](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/content)  
+[Font Awesome](https://fontawesome.com/get-started)  
+[JQuery](https://code.jquery.com/)  
+[Bootstrap 4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/)  
+
+
