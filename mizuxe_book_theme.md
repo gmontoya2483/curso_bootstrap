@@ -22,10 +22,28 @@ Se deben seguir los pasos indicados en el siguinete video:
 
 [Video: Showcase and Primary Color Change](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685654?start=0)
 
+## Newsletter and Boxes
+
+[Video: Newsletter and Boxes](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685656?start=0)
+
+## About Section with Accordions
+
+[Video: About Section with Accordions](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685658?start=0)
+
+## Authors Area
+
+[Video: Authors Area](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685660?start=0)
+
+## Contact and Footer
+
+[Video: Contact and Footer](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685662?start=0)
+
 ## Muestra
 
-![Bootstrap banner](documentation/looplab_home.png)
-![Bootstrap banner](documentation/looplab_explore.png)
+![Mizuxe Home](documentation/mizuxe_home.png)
+![Mizuxe About](documentation/mizuxe_about.png)
+![Mizuxe Authors](documentation/mizuxe_authors.png)
+![Mizuxe Contact](documentation/mizuxe_contact.png)
 
 ## referencias
 

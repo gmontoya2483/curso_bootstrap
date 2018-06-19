@@ -13,8 +13,8 @@
 
 ## Muestra
 
-![Bootstrap banner](documentation/looplab_home.png)
-![Bootstrap banner](documentation/looplab_explore.png)
-![Bootstrap banner](documentation/looplab_create.png)
-![Bootstrap banner](documentation/looplab_share.png)
-![Bootstrap banner](documentation/looplab_footer.png)
+![Looplab_home](documentation/looplab_home.png)
+![Looplab_explore](documentation/looplab_explore.png)
+![Looplab_create](documentation/looplab_create.png)
+![Looplab_share](documentation/looplab_share.png)
+![Looplab_footer](documentation/looplab_footer.png)
