@@ -47,6 +47,8 @@
 
 - [Project Mizuxe - Book Theme](mizuxe_book_theme.md)
 
+- [Project Mizuxe - Book Theme](glozzom_showcase.md)
+
 ### Referencias
 
 [Bootstrap](https://getbootstrap.com/)  

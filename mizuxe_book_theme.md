@@ -2,7 +2,7 @@
 
 [VOLVER a README.md](README.md)
 
-## Indice
+## Introducción
 
 - [Section 8: Project Mizuxe - Book Theme](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685646?start=0)
 
