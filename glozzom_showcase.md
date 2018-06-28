@@ -34,6 +34,10 @@
 
 [Section 9: Services Page](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685828?start=0)
 
+## Blog Page
+
+[Section 9: Blog Page](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685840?start=0)
+
 ## referencias
 
 [ekko Lightbox for Bootstrap](http://ashleydw.github.io/lightbox/)  
