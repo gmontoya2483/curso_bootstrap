@@ -38,6 +38,41 @@
 
 [Section 9: Blog Page](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685840?start=0)
 
+## Contact Page
+
+[Section 9: Contact Page](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7816612?start=0)
+
+## Muestra
+
+### Imagenes de la página Home
+
+![Glozzom Home - 1](documentation/glozzom_home_page_1.png)
+![Glozzom Home - 2](documentation/glozzom_home_page_2.png)
+![Glozzom Home - 3](documentation/glozzom_home_page_3.png)
+![Glozzom Home - 4](documentation/glozzom_home_page_4.png)
+![Glozzom Home - 5](documentation/glozzom_home_page_5.png)
+![Glozzom Home - 6](documentation/glozzom_home_page_6.png)
+
+### Imageness de la página About
+
+![Glozzom About - 1](documentation/glozzom_about_page_1.png)
+![Glozzom About - 2](documentation/glozzom_about_page_2.png)
+![Glozzom About - 3](documentation/glozzom_about_page_3.png)
+
+### Imagenes de la página Services
+
+![Glozzom Services - 1](documentation/glozzom_services_page_1.png)
+![Glozzom Services - 2](documentation/glozzom_services_page_2.png)
+
+### Imagenes de la página Blog
+
+![Glozzom blog - 1](documentation/glozzom_blog_page_1.png)
+
+### Imagenes de la página Contact
+
+![Glozzom Contact - 1](documentation/glozzom_contact_page_1.png)
+![Glozzom Contact - 2](documentation/glozzom_contact_page_2.png)
+
 ## referencias
 
 [ekko Lightbox for Bootstrap](http://ashleydw.github.io/lightbox/)  
