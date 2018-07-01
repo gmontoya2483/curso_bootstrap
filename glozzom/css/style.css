@@ -15,6 +15,7 @@ body {
 
 .carousel-item {
   height: 450px;
+  z-index: -1;
 }
 
 .carousel-image-1 {
