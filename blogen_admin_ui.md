@@ -26,6 +26,10 @@
 
 - [Section 10: Details and Setting Pages](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685682?start=0)
 
+## Profile and Login Pages
+
+- [Section 10: Details and Setting Pages](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685692?start=0)
+
 ## Referencias
 
 [CKEditor](https://cdn.ckeditor.com/)
