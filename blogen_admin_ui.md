@@ -30,6 +30,48 @@
 
 - [Section 10: Details and Setting Pages](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685692?start=0)
 
+## Muestra
+
+### Login Page
+
+![Login Page](documentation/blogen_login.png)
+
+### Dashboard Page
+
+![Dashboard Page](documentation/blogen_dashboard.png)
+
+### Posts Page
+
+![Posts Page](documentation/blogen_posts.png)
+
+### Posts Details Page
+
+![Posts Details Page](documentation/blogen_post_details.png)
+
+### Add Post Page
+
+![Add Post Page](documentation/blogen_add_post.png)
+
+### Categories Page
+
+![Categories Page](documentation/blogen_categories.png)
+
+### Add Category Page
+
+![Add Category Page](documentation/blogen_add_category.png)
+
+### Users Page
+
+![Users Page](documentation/blogen_users.png)
+
+### Add User Page
+
+![Add User Page](documentation/blogen_add_user.png)
+
+### Profile Page
+
+![Profile Page](documentation/blogen_profile.png)
+
 ## Referencias
 
 [CKEditor](https://cdn.ckeditor.com/)
