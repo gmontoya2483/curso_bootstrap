@@ -16,7 +16,11 @@
 
 ## Finishing the Dashboard
 
-- [Section 10: inishing the Dashboard](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685674?start=0)
+- [Section 10: Finishing the Dashboard](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685676?start=0)
+
+## Resource Table Pages
+
+- [Section 10: Resource Table Pages](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685680?start=0)
 
 ## Referencias
 
