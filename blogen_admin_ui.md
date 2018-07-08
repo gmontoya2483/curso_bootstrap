@@ -22,6 +22,10 @@
 
 - [Section 10: Resource Table Pages](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685680?start=0)
 
+## Details and Setting Pages
+
+- [Section 10: Details and Setting Pages](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685682?start=0)
+
 ## Referencias
 
 [CKEditor](https://cdn.ckeditor.com/)
