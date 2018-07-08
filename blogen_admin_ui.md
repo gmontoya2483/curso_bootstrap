@@ -9,3 +9,7 @@
 ## Navbar and Main Header
 
 - [Section 10: Navbar and Main Header](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685670?start=0)
+
+## Add buttons and Modals
+
+- [Section 10: Add buttons and Modals](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/t/lecture/7685674?start=0)
